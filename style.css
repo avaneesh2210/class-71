@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+#video{
+    width: 800px;
+    height: 100px;
+}
+.img-responsive{
+    width: 1000px;
+    height: 500px;
+}
+#map{
+    width: 800px;
+    height: 300px;
+}
